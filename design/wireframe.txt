@@ -1,0 +1,26 @@
+Todo List App - Wireframe
+
+--------------------------------------------------
+| [Todo List App]                            |
+--------------------------------------------------
+|                                                |
+|   [ Add a new task...                ] [Add]   |
+|                                                |
+|   ------------------------------------------   |
+|   |                                        |   |
+|   | [ ] Buy groceries                    [X] |   |
+|   | [ ] Walk the dog                     [X] |   |
+|   | [x] Finish the design mockup         [X] |   |
+|   |                                        |   |
+|   ------------------------------------------   |
+|                                                |
+--------------------------------------------------
+
+Elements:
+- Header: "Todo List App"
+- Input field: "Add a new task..."
+- Button: "Add"
+- Task list:
+    - Checkbox: for marking tasks as complete.
+    - Task text: the description of the task.
+    - Delete button: "X" to remove a task.
